@@ -2,3 +2,16 @@
 .env
 *.pem
 *.key
+
+.env
+*.pem
+*.key
+SSL.txt
+
+*.swp
+*.swo
+*.swn
+backend/.venv/
+.venv/
+__pycache__/
+*.pyc
